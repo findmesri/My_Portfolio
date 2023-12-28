@@ -1,6 +1,6 @@
 # Cloud Support Engineer
 
-#### Technical Skills: AWS , Linux , DevOps ( Git , Jenkins , Terraform , Docker) , Jira , Networking
+#### Technical Skills: AWS , Linux , DevOps  Git , Jenkins , Terraform , Docker , Jira , Networking
 
 ## Education
 - BE - CSE | Hindusthan Institute of technology (_May 2022_)								       		
@@ -38,4 +38,5 @@ Outcome:
 Successfully deployed a static website on AWS S3, utilizing various AWS services for reliable web hosting, secure communications, and improved performance.
 
 - [LinkedIn](https://www.linkedin.com/in/barath-kumar-275b34239)
+
 
